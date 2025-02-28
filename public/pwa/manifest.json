@@ -1,0 +1,35 @@
+{
+  "theme_color": "#413F3E",
+  "theme_color_alt": "#32344C",
+  "theme_color_lyrae": "#1E4FA2",
+  "background_color": "#898E8C",
+  "display": "standalone",
+  "orientation": "any",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Lyrae, coffre prive securise ",
+  "short_name": "Lyrae",
+  "description": "Secure private vault ",
+  "icons": [
+    {
+      "src": "/pwa/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
