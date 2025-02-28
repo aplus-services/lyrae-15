@@ -1,6 +1,6 @@
 # LYRÆ
 
-This is Lyrae distribution from APLUS
+This is Lyrae distribution from APLUS.
 
 ## Getting Started
 
