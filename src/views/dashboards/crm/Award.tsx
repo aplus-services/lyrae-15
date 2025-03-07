@@ -22,7 +22,7 @@ const Award = () => {
             <Typography variant='h5'>
               Félicitations <span className='font-bold'>Norris!</span> 🎉
             </Typography>
-            <Typography variant='subtitle1'>Best seller of the month, chapeau!</Typography>
+            <Typography variant='subtitle1'>Best seller of the month, bravo!</Typography>
           </div>
           <div className='flex flex-col'>
             <Typography variant='h5' color='primary.main'>
