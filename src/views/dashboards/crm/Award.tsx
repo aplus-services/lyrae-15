@@ -20,9 +20,9 @@ const Award = () => {
         <div className='flex flex-col items-start gap-2.5'>
           <div className='flex flex-col'>
             <Typography variant='h5'>
-              Congratulations <span className='font-bold'>Norris!</span> 🎉
+              Félicitations <span className='font-bold'>Norris!</span> 🎉
             </Typography>
-            <Typography variant='subtitle1'>Best seller of the month</Typography>
+            <Typography variant='subtitle1'>Best seller of the month, chapeau!</Typography>
           </div>
           <div className='flex flex-col'>
             <Typography variant='h5' color='primary.main'>
