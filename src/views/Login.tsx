@@ -85,7 +85,8 @@ const Login = ({ mode }: { mode: Mode }) => {
   } = useForm<FormData>({
     resolver: valibotResolver(schema),
     defaultValues: {
-      email: 'admin@materialize.com',
+      // email: 'admin@materialize.com',
+      email: 'contact@aplus.bz',
       password: 'admin'
     }
   })
@@ -153,7 +154,8 @@ const Login = ({ mode }: { mode: Mode }) => {
           </div>
           <Alert icon={false} className='bg-[var(--mui-palette-primary-lightOpacity)]'>
             <Typography variant='body2' color='primary.main'>
-              Email: <span className='font-medium'>admin@materialize.com</span> / Pass:{' '}
+            {/* Email: <span className='font-medium'>admin@materialize.com</span> / Pass:{' '} */}
+            Email: <span className='font-medium'>contact@aplus.bz</span> / Pass:{' '}
               <span className='font-medium'>admin</span>
             </Typography>
           </Alert>
